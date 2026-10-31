@@ -18,10 +18,10 @@ Each SDK is generated from the API contract with [Fern](https://buildwithfern.co
 | Language | Repository | Install |
 | --- | --- | --- |
 | TypeScript | [affinity-typescript](https://github.com/affinity-health/affinity-typescript) | `npm install @affinity-health/sdk@next` |
-| Python | [affinity-python](https://github.com/affinity-health/affinity-python) | From GitHub, tag `v0.4.0` |
-| Go | [affinity-go](https://github.com/affinity-health/affinity-go) | `go get github.com/affinity-health/affinity-go@v0.4.1` |
-| Java | [affinity-java](https://github.com/affinity-health/affinity-java) | From GitHub, tag `v0.4.0` |
-| C# | [affinity-csharp](https://github.com/affinity-health/affinity-csharp) | From GitHub, tag `v0.4.0` |
+| Python | [affinity-python](https://github.com/affinity-health/affinity-python) | From GitHub, tag `v0.4.1` |
+| Go | [affinity-go](https://github.com/affinity-health/affinity-go) | `go get github.com/affinity-health/affinity-go@v0.4.2` |
+| Java | [affinity-java](https://github.com/affinity-health/affinity-java) | From GitHub, tag `v0.4.1` |
+| C# | [affinity-csharp](https://github.com/affinity-health/affinity-csharp) | From GitHub, tag `v0.4.1` |
 
 The TypeScript SDK is a beta on npm's `next` tag. The other SDKs are not on a package registry yet;
 each README shows how to install from GitHub. More about the contract:
